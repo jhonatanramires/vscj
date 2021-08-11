@@ -1,0 +1,1659 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.1
+
+Name: assets/assets/data/ridge/ridge.json
+SHA1-Digest: DPqSWH2ENQlhLqpXnOD/GO93/qg=
+
+Name: assets/assets/shared/images/grafix.png
+SHA1-Digest: AyOvlsUt5rD2aBnf8J65OIhykx8=
+
+Name: assets/assets/data/senpai/senpai.json
+SHA1-Digest: dQfOrh68bohWN6j2KVfgiBymF50=
+
+Name: assets/assets/images/num6.png
+SHA1-Digest: 0w5oEyyw+aN+zcXAqOxVRIYC4TA=
+
+Name: assets/assets/customweek/images/custombg2.png
+SHA1-Digest: yPZ9AWUbBRhz2nOEU3aWC0n3YU8=
+
+Name: assets/assets/preload/data/thorns/thornsDialogue.txt
+SHA1-Digest: o7F1ekrzpwfrmrKPzu2MXGipH0E=
+
+Name: assets/assets/shared/images/gf/GF_assets.xml
+SHA1-Digest: L5FtEMInHK5PJaKVd1UdKYPFP/A=
+
+Name: assets/assets/customweek/images/Character/gfcustom1.xml
+SHA1-Digest: jgQNGv/hswrRSB3kJGOr1M/mIFM=
+
+Name: assets/assets/week5/images/christmas/evilTree.png
+SHA1-Digest: 0oEmK6bhArzZGMz2mNvJjawXBTw=
+
+Name: assets/assets/songs/blammed/Inst.ogg
+SHA1-Digest: XCf8/be4J0aPYGvuYc5X0sKe524=
+
+Name: assets/assets/images/menucharacter/spooky.png
+SHA1-Digest: NgYye/hTUfhcYT1MQ6CO/4fonZk=
+
+Name: assets/flixel/sounds/flixel.ogg
+SHA1-Digest: cR+eO+sjEnglNCZuFsV80FspPuQ=
+
+Name: assets/assets/week2/images/Monster_Assets.png
+SHA1-Digest: GKWf6s01UloXuO6irmXI+q8c+yk=
+
+Name: assets/assets/shared/images/bad.png
+SHA1-Digest: s5FC2JTGJLPlOZEvfBr10BXuaGU=
+
+Name: assets/assets/shared/images/stagefront.png
+SHA1-Digest: OAtzM1JRF+MvpfuWang28iPglFs=
+
+Name: assets/flixel/images/logo/default.png
+SHA1-Digest: yGZLskcnbL80FZOSr15jsXktkKQ=
+
+Name: assets/assets/week6/images/weeb/weebTrees.png
+SHA1-Digest: cncqCHt8KZ2ZAftTyLsumyC6uiI=
+
+Name: assets/assets/data/south/south-easy.json
+SHA1-Digest: +tdebGsakcf5+3Dq+rT2by1wp4U=
+
+Name: assets/assets/shared/images/gf/GF_assets_blowing.xml
+SHA1-Digest: 8UfT8JYwFCkq0by8JIP5Fcn25Hw=
+
+Name: assets/assets/week5/images/christmas/mom_dad_christmas_assets.pn
+ g
+SHA1-Digest: Fth4nZBJ95CPV++riYxS9R0mpP0=
+
+Name: assets/assets/week6/images/weeb/pixelUI/dialogueBox-pixel.png
+SHA1-Digest: bpQF8gLdsYVZi5tgY/MOh07oECA=
+
+Name: assets/assets/week5/images/christmas/evilBG.png
+SHA1-Digest: y4LdV+h8EC3IJnN0LpBIDVDQX18=
+
+Name: assets/assets/shared/images/screencapTierImage.png
+SHA1-Digest: gpiJdNT1LF8kt2Mv8LErNR3nUUA=
+
+Name: assets/assets/data/cocoa/cocoa-hard.json
+SHA1-Digest: 7J+vgF0tSQWessge/2vzrkJ6a1A=
+
+Name: assets/assets/data/eggnog/eggnog-hard.json
+SHA1-Digest: NZB83udLlEl95lfGB+agrqX3F8w=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: 17V189fGxPSHjXmJD21Y95xyf2Q=
+
+Name: assets/assets/shared/images/lol.png
+SHA1-Digest: J5TwnGePAbibHotlu8OnsYUG8ro=
+
+Name: assets/flixel/flixel-ui/img/tab.png
+SHA1-Digest: gd5/x5/Akkm0w6MoagcbXO0bFZE=
+
+Name: assets/manifest/week3.json
+SHA1-Digest: kEW4F/WZB8T+tUQeU3kwtqlVp1k=
+
+Name: resources.arsc
+SHA1-Digest: sD2qd5ALDWuW3KF2lz/wUiEjrLE=
+
+Name: assets/assets/week6/images/weeb/pixelUI/good-pixel.png
+SHA1-Digest: DSrHoFgsSsqgPUA6Kd66Jr+3xUo=
+
+Name: assets/assets/data/milf/milf-easy.json
+SHA1-Digest: 54g7l/kl70hwil+9qWK/u8ayT+o=
+
+Name: assets/flixel/flixel-ui/img/radio_dot.png
+SHA1-Digest: I7R44Jqo6HiIBMaNdx2V2Ukn4EQ=
+
+Name: assets/flixel/flixel-ui/img/button_arrow_down.png
+SHA1-Digest: 14jUtQ5GR7K3TorIw7o1JdaA8LI=
+
+Name: assets/assets/shared/images/stagecurtains.png
+SHA1-Digest: 28+sqEDwFOlljFQywSLzse9WVfE=
+
+Name: assets/assets/week6/week6_stuff_here.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/songs/winter-horrorland/Voices.ogg
+SHA1-Digest: 3acwrAmZJB3Aczeer854CoYiXkQ=
+
+Name: assets/assets/week6/images/weeb/senpaiCrazy.png
+SHA1-Digest: 2gfruaE6WT0MqFRzk/wEIDkexJg=
+
+Name: assets/assets/images/FNF_main_menu_assets.png
+SHA1-Digest: Kc5i5wz6DQ9REXuKfNZ0FCv884Y=
+
+Name: assets/assets/week5/images/christmas/bgWalls.png
+SHA1-Digest: o9asmAcHuvuUxtJ/hMbNv+DXKf4=
+
+Name: assets/assets/images/menucharacter/dad.xml
+SHA1-Digest: df7lHd8haMisKG8ApHashMNWH5Q=
+
+Name: assets/assets/shared/images/when imposter is YOU
+SHA1-Digest: 5DKm0FZqHkuoqi1tcN3GD76mAmk=
+
+Name: assets/assets/songs/spookeez/Inst.ogg
+SHA1-Digest: jwj/CyycBj6ATuwuIfnKJhzUxBY=
+
+Name: assets/assets/images/menuBG.png
+SHA1-Digest: oZKK7fR+vHZWK/N7nb9bnEg+h1w=
+
+Name: assets/assets/images/campaign_menu_UI_assets.png
+SHA1-Digest: VRXDSad89yFRsCGzHlj7zvH7kWk=
+
+Name: assets/assets/week3/images/philly/win2.png
+SHA1-Digest: NxiLthkX0q4iMXIqwgf1dq5ldEI=
+
+Name: assets/assets/customweek/images/dialogue/gfHurtPortrait.png
+SHA1-Digest: Rzy0Fr46aBLXMCI4VxISJvAujGE=
+
+Name: assets/assets/customweek/images/credit iprimegamerz or no more c
+ ustom week.txt
+SHA1-Digest: lCdhP9OgLx/xSGuP3nGYmJT1ClU=
+
+Name: assets/assets/customweek/images/dialogue/dadAngryPortrait.png
+SHA1-Digest: UPm4dhs8KNGef26tK/b/w8vjxdg=
+
+Name: assets/assets/shared/images/healthBar.png
+SHA1-Digest: xZ0AmyZrGAAM86oi4us1JTI3vKo=
+
+Name: assets/assets/week6/music/gameOverEnd-pixel.ogg
+SHA1-Digest: 0h+xBl5Qia1MHN2WgGZqIl4rFUQ=
+
+Name: assets/assets/data/milf/milf.json
+SHA1-Digest: PmpBofb1WzCpRfcFX+v3Lfgefow=
+
+Name: assets/assets/week2/images/halloween_bg.xml
+SHA1-Digest: oZhxhHAZZJK02QXUPh8JezUA61c=
+
+Name: assets/assets/customweek/images/dialogue/nothing is here yet bec
+ uz yeah wait for UPDATE 2.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/images/alphabet.xml
+SHA1-Digest: mrYlJ4/qAOlVVS9boMsGDLck4/A=
+
+Name: assets/assets/week5/images/christmas/monsterChristmas2.png
+SHA1-Digest: qrouNFtYtC9W5Wtc0wDUUeAfhKs=
+
+Name: assets/flixel/flixel-ui/img/finger_big.png
+SHA1-Digest: OQaUdvkFT+zEmGZJ3SVkJdrJDBs=
+
+Name: assets/assets/customweek/images/Character/Char3_Assets.png
+SHA1-Digest: F6PpaC4/prCwYbvXi2nM/H0731s=
+
+Name: assets/assets/data/song-tracks1/song-tracks1.json
+SHA1-Digest: 3iXINBoikxkxN/ceAkt8ca+0WxU=
+
+Name: assets/assets/shared/images/hitbox/hitbox.png
+SHA1-Digest: DD3Dh7rLbdKevGhMGxt/4RWHTuw=
+
+Name: assets/assets/customweek/images/NOTE/NOTE_assets1.png
+SHA1-Digest: vOeNdM8ev+LdGmtZ94O0vBK7s3U=
+
+Name: assets/assets/week6/images/weeb/bfPixel.xml
+SHA1-Digest: dTsU4FBv9BMZU121D1n8eaJzdi8=
+
+Name: assets/assets/customweek/images/dialogue/dadMadPortrait.xml
+SHA1-Digest: kZzt6PbWstpRjOUmDN+g8w848LA=
+
+Name: assets/assets/preload/data/controls.txt
+SHA1-Digest: vz2ZNDx/1A3X9A6VCGNPX+IwFYg=
+
+Name: assets/assets/shared/sounds/fnf_loss_sfx-pixel.ogg
+SHA1-Digest: 45GIerdB+nDTItM+fCIrsD5BAF0=
+
+Name: assets/assets/data/song-tracks2/song-tracks2-easy.json
+SHA1-Digest: Kw7qHIxp79Nzl8JwEVQ0tCtXCmE=
+
+Name: assets/assets/songs/high/Inst.ogg
+SHA1-Digest: I3CXsu2Rno0BTQWcd1jS0DuUGzE=
+
+Name: assets/assets/customweek/images/Character/gfcustom2.xml
+SHA1-Digest: 3l6BqsgzyewVnIFQHFtPGIHfSu0=
+
+Name: assets/assets/images/num7.png
+SHA1-Digest: 34nmuuFp/icw2TV/B0mPIrz/cLM=
+
+Name: assets/assets/data/pico/pico-easy.json
+SHA1-Digest: oKac3a8upoDmV0a6/fC1+7drF0w=
+
+Name: assets/assets/week3/images/Pico_FNF_assetss.xml
+SHA1-Digest: cb7UqLz+pSYCWDc5Kt45hd8oLK8=
+
+Name: assets/assets/shared/sounds/intro2-pixel.ogg
+SHA1-Digest: a8uyTfW+dI4OliuAOKWlQBlobG0=
+
+Name: assets/assets/week2/images/spooky_kids_assets.png
+SHA1-Digest: FlkY6B/5usYAbu0skRs/xfHZOI8=
+
+Name: assets/assets/images/menucharacter/campaign_menu_UI_characters.x
+ ml
+SHA1-Digest: sz88Z/bwaGy/DDzPmnwr8RFIlo0=
+
+Name: assets/assets/week5/images/christmas/fgSnow.png
+SHA1-Digest: 9D91fQfolxMJdHs6fwb0uHrq644=
+
+Name: assets/assets/week5/images/christmas/bottomBop.png
+SHA1-Digest: SqMINpNq01B6uRshciZkgPwBLnk=
+
+Name: assets/flixel/sounds/beep.ogg
+SHA1-Digest: y/0B9TAL0/M8hwMbEaNh/UWtuQI=
+
+Name: assets/assets/week4/images/limo/limoDancer.xml
+SHA1-Digest: LVadeO2St7fQaC7GlVWn70wBvyU=
+
+Name: assets/assets/shared/music/gameOverEnd.ogg
+SHA1-Digest: FnWt1eVeDIgPTzjyfklASlerYEU=
+
+Name: assets/assets/shared/images/gf/GF_assets_tutorial.png
+SHA1-Digest: t5mkJ8Pz6pploDrBpLJSYa5iZsY=
+
+Name: assets/assets/shared/images/pauseAlt/pauseUI.png
+SHA1-Digest: ZWI+6ePyLOdKQnF65vFPb7Lbtqk=
+
+Name: assets/assets/week3/images/philly/train.png
+SHA1-Digest: 8wFzhVYDOumRg0WtLwhpqZ3p4/M=
+
+Name: assets/flixel/flixel-ui/img/radio.png
+SHA1-Digest: 2z7COZE0OY4ExILJXL5+w7GqE/o=
+
+Name: assets/assets/shared/music/gameOver.ogg
+SHA1-Digest: r/bn7RPSCyZxChAVZq4e+ll2004=
+
+Name: assets/assets/data/milf/milf-hard.json
+SHA1-Digest: e1hIkAS6HFRYKkihUioF1ceMxcg=
+
+Name: assets/manifest/customweek.json
+SHA1-Digest: 6EGEnYhVHbu7SPzDRsKRMHJefzk=
+
+Name: assets/assets/week5/images/christmas/gfChristmas_em.xml
+SHA1-Digest: GWmtwJVoOjNJ/+YKXujhYIjRzEI=
+
+Name: assets/manifest/week6.json
+SHA1-Digest: VKuymzbZTm/zrLAeYwSh9Ehczdw=
+
+Name: assets/assets/customweek/music/DialogueMusic.ogg
+SHA1-Digest: agL1xEGbFGmeEsXfgMQ/wLK6BwA=
+
+Name: assets/assets/week5/images/christmas/christmasWall.png
+SHA1-Digest: /7b2QOGWn3M3HIRqMJaNTHAzd/g=
+
+Name: assets/assets/week6/images/weeb/pixelUI/dialogueBox-evil.xml
+SHA1-Digest: rw3ULYqsI8QSqmPkmh9lfut+zdw=
+
+Name: assets/assets/week6/images/weeb/pixelUI/num1-pixel.png
+SHA1-Digest: QbQovQED/whERJaYBfgec8s8zDQ=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: 3JseE5YhHmmyysbS2GgrMfuuh0Q=
+
+Name: assets/assets/data/eggnog/eggnog.json
+SHA1-Digest: gGzI+EIDKGfekmhTS6JTJLU8NDQ=
+
+Name: assets/assets/data/spookeez/spookeez-easy.json
+SHA1-Digest: JVCpf+eVmOi5966QEf9g9pfmD/Y=
+
+Name: assets/assets/week3/images/philly/win3.png
+SHA1-Digest: s0ibEFjmtnfEgu2dTKXLNLBPnZ4=
+
+Name: assets/flixel/flixel-ui/img/button.png
+SHA1-Digest: AKiVU21pbOeYh82GnO2sGS/ccVI=
+
+Name: assets/assets/shared/sounds/fnf_loss_sfx.ogg
+SHA1-Digest: 3aOwI+19mW+uH4Tdft6Yehm6Uoo=
+
+Name: assets/assets/shared/images/gf/GF_ass_sets_landing.xml
+SHA1-Digest: 1woBfy2tcxvzAratALz186iVwtM=
+
+Name: res/drawable-xhdpi-v4/ouya_icon.png
+SHA1-Digest: okpxyqyKe9EFKmRN7qXDbt43GmI=
+
+Name: assets/assets/preload/images/virtual-input.txt
+SHA1-Digest: EW6nk+IAtGrMz/nyikx72E3Pzi4=
+
+Name: assets/assets/customweek/images/dialogue/boyfriendPortrait.xml
+SHA1-Digest: LVTIIGbM/FbHsA6F2XgZqRKl23A=
+
+Name: assets/assets/data/spookeez/spookeez.json
+SHA1-Digest: qNPqItFvfLIGOo/wdj1aK0DHk/4=
+
+Name: assets/assets/week4/images/momCar.xml
+SHA1-Digest: JHP4xqzdXTXUHSmSBcS25wz8JmM=
+
+Name: assets/assets/songs/bopeebo/Inst.ogg
+SHA1-Digest: FAdg1jqZq00OABV9P7U2W0ZRKrs=
+
+Name: assets/assets/week4/images/limo/fastCarLol.png
+SHA1-Digest: u74aAaJmgvom4iT5lFVR4Dp2Zmo=
+
+Name: assets/assets/week6/images/weeb/senpai.png
+SHA1-Digest: GrK03bXQOgIChi4qC36iTCHNa2o=
+
+Name: assets/assets/week6/images/weeb/pixelUI/set-pixel.png
+SHA1-Digest: nox+XXBg7cKtnT/ElGU4CQP74pE=
+
+Name: assets/flixel/flixel-ui/img/minus_mark.png
+SHA1-Digest: 48AT+3pO8NflICzqm4d2PSdybLY=
+
+Name: assets/assets/data/song-tracks1/song-tracks1-hard.json
+SHA1-Digest: u454UCfXaR/jEFIbTTZteBFn42c=
+
+Name: assets/assets/week6/images/weeb/pixelUI/ready-pixel.png
+SHA1-Digest: 05Hy98cAY0YHABhWayt17LqLVxI=
+
+Name: assets/assets/customweek/images/dialogue/gfPortrait.xml
+SHA1-Digest: vBXrFc5XTJpOWqbOsp9IWEj1vcQ=
+
+Name: assets/assets/songs/milf/Inst.ogg
+SHA1-Digest: suhc5Xl3zzKbybtHPN9W+pcY2pg=
+
+Name: assets/assets/week6/images/weeb/bfPixelsDEAD.xml
+SHA1-Digest: eMPox+fpK1ynXCgzFiR7I0IwBfY=
+
+Name: assets/assets/week6/images/weeb/pixelUI/bad-pixel.png
+SHA1-Digest: 3pJPDOVjqrwc6QegTyZmAjLxldY=
+
+Name: assets/assets/shared/sounds/missnote3.ogg
+SHA1-Digest: V5iH/cVbd39mPhFP/Aqagmlp3ek=
+
+Name: assets/assets/songs/dadbattle/Voices.ogg
+SHA1-Digest: dgedDlEYy7orOv8+hB9QsyJCX1A=
+
+Name: assets/flixel/flixel-ui/img/plus_mark.png
+SHA1-Digest: LseWUrjmAfnob7VpU7NhAiGxENM=
+
+Name: assets/assets/week6/images/weeb/pixelUI/arrows-pixels.png
+SHA1-Digest: s/raK3St7xYN26RMj2kpmdG5Anc=
+
+Name: assets/assets/week5/images/christmas/monsterChristmas3.png
+SHA1-Digest: i9b8kGYKEMfjSNnizCoIuIJ2x3Y=
+
+Name: assets/assets/images/storymenu/week4.png
+SHA1-Digest: zDbKXAN33KvRBHJ9c5pW2vljmv4=
+
+Name: assets/assets/week6/images/weeb/gfPixel.png
+SHA1-Digest: gjuPn61K03trp6tQO6wqNBTylVE=
+
+Name: assets/assets/songs/blammed/Voices.ogg
+SHA1-Digest: kA2QXTjT/4vym1Enf3Q4IMP3/NA=
+
+Name: assets/assets/customweek/images/NOTE/NOTE_assets2.png
+SHA1-Digest: vOeNdM8ev+LdGmtZ94O0vBK7s3U=
+
+Name: assets/do NOT readme.txt
+SHA1-Digest: oZ7Q083lj1hplJoSQ9KWaadCSP8=
+
+Name: assets/manifest/week2.json
+SHA1-Digest: LYElrbG0wOlhsLk4aEeT3FVa4vM=
+
+Name: assets/assets/shared/images/GF_assets.xml
+SHA1-Digest: eLFfbUYeFVx8dWPppBc8grvLr6g=
+
+Name: assets/assets/preload/data/song-tracks1/dialogue.txt
+SHA1-Digest: Anm3NsH8jWGdOZXdP+1xXcrlh1Q=
+
+Name: assets/assets/shared/sounds/badnoise3.ogg
+SHA1-Digest: hv92W1DXufDva8Ts7OleWHh4nOo=
+
+Name: assets/assets/music/freakyMenu.ogg
+SHA1-Digest: d4tIfrY1OZ4d246oNoxi/7Jd2CU=
+
+Name: assets/assets/images/num8.png
+SHA1-Digest: F4Irs6IHr5FvhFmvfiPmpDy0mt4=
+
+Name: assets/assets/shared/sounds/intro3.ogg
+SHA1-Digest: GukQzj6pyLl3xnHDHd8wNBAAhfE=
+
+Name: assets/assets/week3/images/philly/win0.png
+SHA1-Digest: PckLAJ+hp+34NgebgSdPQRQ0Gzg=
+
+Name: assets/assets/songs/dadbattle/Inst.ogg
+SHA1-Digest: ybzxJWFizV56yyjR/UZyBNu1LIA=
+
+Name: assets/assets/week5/images/christmas/bfChristmas.png
+SHA1-Digest: AoIMrlojqVB4HbtXze8gPQmP0pA=
+
+Name: assets/assets/week6/images/weeb/spirit.txt
+SHA1-Digest: KtVXSUhexKu/8AbIzaEXFSme6lc=
+
+Name: assets/assets/shared/sounds/GF_1.ogg
+SHA1-Digest: Byydo4SvOaOIhGjQPFqhmhlbgjg=
+
+Name: assets/flixel/flixel-ui/img/check_box.png
+SHA1-Digest: Dlme0+j/pp+EgSghiyLyEyn/85s=
+
+Name: assets/assets/data/introText.txt
+SHA1-Digest: Ijkg33/GVYPV4pLvSlTPHrIttUE=
+
+Name: assets/assets/shared/images/GF_assets_lite.xml
+SHA1-Digest: eLFfbUYeFVx8dWPppBc8grvLr6g=
+
+Name: assets/assets/shared/images/images-go-here.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/shared/sounds/thunder_2.ogg
+SHA1-Digest: aoUX6vEBuJ1Si3NFJD9UQSEoJ/0=
+
+Name: assets/assets/customweek/images/stagefront1.png
+SHA1-Digest: 6zGC9sxE4FiiEuoSXD2zWQnxouI=
+
+Name: assets/assets/data/characterList.txt
+SHA1-Digest: tSaAOcPEr3JwX4pi3FXnW9tIgzk=
+
+Name: assets/assets/images/logo.png
+SHA1-Digest: 945j46vf9npPOVjknFfyfEWqQP8=
+
+Name: assets/assets/week5/images/christmas/gfChristmas.png
+SHA1-Digest: jxA/OxXSdu+0JObZr/b54F+yNq0=
+
+Name: assets/assets/data/blammed/blammed.json
+SHA1-Digest: 1G2NxPQ4+VEhb1Jn0vFCJHblpLw=
+
+Name: assets/assets/customweek/images/Character/Char1_Assets.xml
+SHA1-Digest: opeCMXoSNPbprAmwRnlI6+zBBLQ=
+
+Name: assets/assets/shared/sounds/introGo.ogg
+SHA1-Digest: E7tUveePhPlThlav3mUDOE8OSpE=
+
+Name: assets/manifest/week4.json
+SHA1-Digest: +6sjdTqklp/1Ss8NaLTn9XDF8Ag=
+
+Name: assets/assets/images/logoBumpin.xml
+SHA1-Digest: bIruDU0DF5J306KY58h4iJvTnHk=
+
+Name: assets/assets/data/south/south-hard.json
+SHA1-Digest: L3RNd2/GXNf91zihkGmafQLJxDI=
+
+Name: assets/assets/customweek/images/dialogue/boyfriendHurtPortrait.x
+ ml
+SHA1-Digest: 0sM/cJN6Bnr8S4gVcYtK7jatUto=
+
+Name: assets/assets/shared/images/combo.png
+SHA1-Digest: 7kOYlBp4VZvUOXUSz8snLi1lgzM=
+
+Name: assets/assets/preload/data/senpai/senpaiDialogue.txt
+SHA1-Digest: qJrridvnbDsjuQyS2ErN1WOvfTM=
+
+Name: assets/assets/week4/images/limo/limoSunset.png
+SHA1-Digest: RpRnoply8D0yHpWel/kBSoi2QqQ=
+
+Name: assets/assets/shared/images/lose.xml
+SHA1-Digest: GwWKy1VeuUDc7mwfHX5UDBzMkvQ=
+
+Name: assets/assets/images/menucharacter/parents-christmas.xml
+SHA1-Digest: TpkhMvHSW/30gLjbqu1zmXnFUN4=
+
+Name: lib/armeabi-v7a/liblime.so
+SHA1-Digest: MXQ8XlPIu2m9NgUf1HT1604PFNQ=
+
+Name: assets/assets/week5/images/christmas/santa.png
+SHA1-Digest: TABhtlITUl1NWxFsTvetzMleHSY=
+
+Name: assets/assets/shared/images/pauseAlt/bfLol.png
+SHA1-Digest: bcTKPXwdbRGQCX+NT8hbitgrh5c=
+
+Name: assets/assets/data/data-goes-here.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/images/num0.png
+SHA1-Digest: ZMSR5kSOMXfbObA13OdLRlJ/fSY=
+
+Name: assets/assets/songs/bopeebo/Voices.ogg
+SHA1-Digest: aFUZV8EOWX/YezkUUyqiIP2DioQ=
+
+Name: assets/assets/week4/images/limo/bgLimo.png
+SHA1-Digest: KsNqwtvd7pGxaHpG8GTMIid0gNs=
+
+Name: assets/mods/modList.txt
+SHA1-Digest: g/1YsGJ6gK3mVXoLIVG3/Pxmmls=
+
+Name: assets/assets/week6/images/weeb/pixelUI/num8-pixel.png
+SHA1-Digest: FAESiW+uVDVxaRSFisGEw98yZwg=
+
+Name: assets/assets/shared/sounds/soundTest.ogg
+SHA1-Digest: rvu6jdK8MrYvLqX4w/+pqElGpFc=
+
+Name: assets/assets/customweek/images/Character/Char2_Assets.png
+SHA1-Digest: bVpA76sNWsqOV1baW1d/NTthXUc=
+
+Name: assets/assets/data/monster/monster.json
+SHA1-Digest: qDB8I/AR+nTiCkUN7s23JrJWVaQ=
+
+Name: assets/flixel/flixel-ui/img/invis.png
+SHA1-Digest: 9k/8EC69XkMbIfvANi1pHKYHd2Q=
+
+Name: assets/assets/songs/monster/Inst.ogg
+SHA1-Digest: D6GgeOd7CJP7rM9xsDtYg+gYeMU=
+
+Name: assets/assets/week6/images/weeb/bfPortrait.xml
+SHA1-Digest: qEU3nPjyzEOfOHIIK3IaI3OIjuk=
+
+Name: assets/assets/data/song-tracks2/song-tracks2-hard.json
+SHA1-Digest: QAS950PyahdaguJkDPcV191dYGQ=
+
+Name: assets/assets/shared/sounds/missnote2.ogg
+SHA1-Digest: hdebnT2FdtVnpY1vV6DN2S1avds=
+
+Name: assets/assets/shared/images/stage_light.png
+SHA1-Digest: ryCg3Ks6u2cn483UHGwh6MwyDes=
+
+Name: assets/assets/week6/images/weeb/spirit.png
+SHA1-Digest: 2sqd0Y8kT/2AES/eySzvm/JZtuk=
+
+Name: assets/assets/week5/images/christmas/christmasTree.png
+SHA1-Digest: pJw+TtgWVhCUMx1DVmvNeg7ShCU=
+
+Name: assets/assets/images/menucharacter/pico.xml
+SHA1-Digest: i8Iqqqr3IHV/YKTN8IylkS/UhrU=
+
+Name: assets/assets/images/menucharacter/char1.png
+SHA1-Digest: BQvr2cMBWwq/EMWKfst55ugB+0g=
+
+Name: assets/assets/week6/images/weeb/pixelUI/shit-pixel.png
+SHA1-Digest: Gxr9JEzzDC8+22MGVE21roGqf4I=
+
+Name: assets/assets/data/tutorial/tutorial-easy.json
+SHA1-Digest: oNh7D9HhtI7adTth2RBeS8na4TY=
+
+Name: assets/assets/shared/images/pauseAlt/pauseBG.png
+SHA1-Digest: sHqS2HZqzz2WifSivn8bEHE8ahk=
+
+Name: assets/assets/shared/images/stageback.png
+SHA1-Digest: i/BYnBEtNBY9txi135Dkogiv/R0=
+
+Name: assets/assets/shared/sounds/carPass0.ogg
+SHA1-Digest: UO2kfLY2nANGWufxWK+mgSBqpn0=
+
+Name: assets/assets/week5/images/christmas/mom_dad_christmas_assets2.x
+ ml
+SHA1-Digest: 4JC3deLMfT5W85WQMmT2TcDicUQ=
+
+Name: assets/assets/week6/images/weeb/pixelUI/dialogueBox-senpaiMad.xm
+ l
+SHA1-Digest: tiKdDISVmBWEa5WhotbSpDeXjZI=
+
+Name: assets/assets/data/south/south.json
+SHA1-Digest: T4BGnhIm2uGSh0bTELM5Z98ad28=
+
+Name: assets/assets/images/storymenu/week7.png
+SHA1-Digest: pevz4P1VGYGAgAnlO3NllkMOsWU=
+
+Name: assets/assets/images/menucharacter/senpai.xml
+SHA1-Digest: NXYG1arMaVhhjOcIBbi9vGSEWFg=
+
+Name: assets/assets/preload/data/roses/rosesDialogue.txt
+SHA1-Digest: pS1fYHZLhLeRoaWwEkzaQxCrQEo=
+
+Name: assets/assets/week6/images/weeb/animatedEvilSchool.xml
+SHA1-Digest: 7Gq4kXfUPCygA/vBPwQ3qieGvbI=
+
+Name: assets/assets/images/gfDanceTitle.xml
+SHA1-Digest: iQOjSTEKkpfmmE2m8HLzzKPg58U=
+
+Name: assets/assets/shared/sounds/thunder_1.ogg
+SHA1-Digest: /W6o6bM1XwI6IrQQbR0SpdacG1c=
+
+Name: assets/assets/shared/images/gf/GF_assets_week2.png
+SHA1-Digest: d2+x7CWUF/dkxkJHFna/rGsEBPk=
+
+Name: assets/assets/shared/images/ready.png
+SHA1-Digest: Gjwqib8TgSdOgeZFDUMvBuu62S4=
+
+Name: assets/assets/shared/sounds/clickText.ogg
+SHA1-Digest: BG/rgQ3Y8W8MMfX19W7LNkgzA1Y=
+
+Name: assets/assets/shared/sounds/intro2.ogg
+SHA1-Digest: 9nSaKsfCnsrmKZ35Yx/kmKWS2PU=
+
+Name: assets/assets/images/titleEnter.xml
+SHA1-Digest: qmtVtZmeJIW7i1D/ATXGOtiY3fs=
+
+Name: assets/assets/shared/images/zzzzzzzz.png
+SHA1-Digest: SqkrdxRSv5idITGpWb0Xsf/if3c=
+
+Name: assets/assets/images/menucharacter/mom.png
+SHA1-Digest: HwgeZ/GAa+wqfNDVjpB3YP3AsDQ=
+
+Name: assets/assets/images/storymenu/week5.png
+SHA1-Digest: w+a9uH2i4pGVgKkEKePPL66G3Ik=
+
+Name: assets/assets/songs/song-tracks2/Inst.ogg
+SHA1-Digest: 3BaRaNkD6LbNtllFO8xDA1wk91g=
+
+Name: assets/assets/sounds/cancelMenu.ogg
+SHA1-Digest: jSr2NwyiTvZ7In+HLBRFYsFkMFM=
+
+Name: assets/assets/shared/sounds/Lights_Turn_On.ogg
+SHA1-Digest: aRZCCMiMXxvskVf+daDWNbSH3iM=
+
+Name: assets/flixel/flixel-ui/xml/default_loading_screen.xml
+SHA1-Digest: 9Sp+/PlyAGz7QOQ5O4lcwDTP+yc=
+
+Name: assets/assets/songs/south/Inst.ogg
+SHA1-Digest: QNRo0eGxEDsWKfvDr3YsDCEsrfc=
+
+Name: assets/assets/songs/south/Voices.ogg
+SHA1-Digest: i48GvKN7+aHZORVhjVUh7dbiJSk=
+
+Name: assets/assets/images/menuBGMagenta.png
+SHA1-Digest: AIe/JuQvl57sKz6HJ/MKXzVgyuI=
+
+Name: assets/assets/preload/data/song-tracks3/dialogue.txt
+SHA1-Digest: Anm3NsH8jWGdOZXdP+1xXcrlh1Q=
+
+Name: assets/assets/week4/images/limo/limoDrive.xml
+SHA1-Digest: Wi/IaOeCFxxS7HKoZ7+F6g7xN/4=
+
+Name: assets/assets/shared/images/BOYFRIEND.xml
+SHA1-Digest: S8ZnkVQ/aNO0IX+uiA0twL3K1JQ=
+
+Name: assets/assets/fonts/fonts-go-here.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/sounds/scrollMenu.ogg
+SHA1-Digest: t12jUaAzn3NZEFW7XBZltfsP3LM=
+
+Name: assets/assets/data/thorns/thorns-hard.json
+SHA1-Digest: LQRzokZJYArfDWder6vMEoOLot4=
+
+Name: assets/assets/week6/images/weeb/bgFreaks.png
+SHA1-Digest: blqYM69A47NySTtyO64DZO0XoTM=
+
+Name: assets/assets/customweek/images/Character/bfcustom2.png
+SHA1-Digest: sIeoq+tOHHW3Qt8yglLFEOB1tz0=
+
+Name: assets/assets/week6/images/weeb/pixelUI/num9-pixel.png
+SHA1-Digest: NVsjGiZ1wgCJD5d/6WqTtZoybr0=
+
+Name: assets/assets/shared/images/shit.png
+SHA1-Digest: GORDwQFwUZ3UuLBCgslw+F2kZLo=
+
+Name: assets/assets/week3/images/philly/street.png
+SHA1-Digest: kFX3EjXowUxdHaMaozBcSc2tae0=
+
+Name: assets/assets/data/high/high-hard.json
+SHA1-Digest: SYJ0TfzFwbRGa0Dhau3xFAtXAuM=
+
+Name: assets/assets/songs/eggnog/Voices.ogg
+SHA1-Digest: +kdWUHMH+S1fjjP7Z7U5AhPUJvo=
+
+Name: assets/assets/week3/images/philly/win1.png
+SHA1-Digest: ohUnzDHNC2V87D9WhaUyP06v47k=
+
+Name: assets/assets/data/dadbattle/dadbattle-easy.json
+SHA1-Digest: lToGN3c3FHEmHOu0GiKZ1IDgz7g=
+
+Name: assets/assets/week6/images/weeb/petals.png
+SHA1-Digest: nJOWJ0B/ccX+7jJoeahzDrYHQao=
+
+Name: assets/assets/week6/images/weeb/pixelUI/combo-pixel.png
+SHA1-Digest: mNrvjaFE1KiZuD1yGWnxXRSwDG0=
+
+Name: assets/assets/week4/images/Mom_Assets.png
+SHA1-Digest: 29F1T0Bz1QixF3ehIMOUUOmh0wI=
+
+Name: assets/assets/data/senpai/senpai-hard.json
+SHA1-Digest: c5rjgf02rX0s2SQFwItmkgjHBvA=
+
+Name: assets/assets/shared/images/backspace.xml
+SHA1-Digest: 4zO7z/5jGPzTtwd1ckQhlj0Y4wc=
+
+Name: assets/assets/week4/images/gfCar.png
+SHA1-Digest: gLQ3DFnplU19+qsuaAbhue7xMYg=
+
+Name: assets/assets/data/philly/philly.json
+SHA1-Digest: l5uvT7upxOZ3sxiG0nGL51p89B8=
+
+Name: assets/assets/images/num1.png
+SHA1-Digest: ONFAIa5kw4VIxTkCeC/v/MRm45k=
+
+Name: assets/assets/shared/images/NOTE_assets.png
+SHA1-Digest: Kz818wfPAA0tjJ2xyiwGemIvY20=
+
+Name: assets/assets/data/song-tracks1/song-tracks1-easy.json
+SHA1-Digest: zxFcn+HP92HlR62fdS0IxiHSCMw=
+
+Name: assets/flixel/images/ui/button.png
+SHA1-Digest: nipzNnyz1CmA6snVoUv9Cl8lU3A=
+
+Name: assets/assets/shared/sounds/carPass1.ogg
+SHA1-Digest: j2AsUM0HH09ry9gRHWejln+gDqM=
+
+Name: assets/assets/data/bopeebo/bopeebo-easy.json
+SHA1-Digest: 5QVIcNV1o8LcJ/BPJMSSVPKSmbg=
+
+Name: assets/assets/shared/images/DADDY_DEAREST.xml
+SHA1-Digest: sP8qSq7IJy8bHAl0ES9j4O8ccRQ=
+
+Name: assets/flixel/flixel-ui/img/button_arrow_left.png
+SHA1-Digest: Kp9KR+Ld6rHKr9Ug2ILk7fw93y8=
+
+Name: lib/armeabi-v7a/libApplicationMain.so
+SHA1-Digest: T/T2cYyMJPEmuMWAWJtsgJMlFz8=
+
+Name: assets/assets/week6/images/weeb/senpaiPortrait.xml
+SHA1-Digest: UZ9aGZpqdJW5EKb18EHB2MWIcII=
+
+Name: assets/assets/preload/data/song-tracks2/dialogue.txt
+SHA1-Digest: Anm3NsH8jWGdOZXdP+1xXcrlh1Q=
+
+Name: assets/assets/shared/sounds/missnote1.ogg
+SHA1-Digest: lmtoEWUaRBawDXZF1sqBFD5zLts=
+
+Name: assets/assets/customweek/images/Character/bfcustom1.png
+SHA1-Digest: v2sGupPHLT6IrPjOmPZNpT37UTc=
+
+Name: assets/assets/week4/images/bfCar.png
+SHA1-Digest: LxT24MGHPb3SMRNr5NVLqh5sEZQ=
+
+Name: assets/assets/week6/music/LunchboxScary.ogg
+SHA1-Digest: xe5fPLWLm1jyZxSL018fIPaMGO4=
+
+Name: assets/assets/week5/images/christmas/mom_dad_christmas_assets3.x
+ ml
+SHA1-Digest: 4JC3deLMfT5W85WQMmT2TcDicUQ=
+
+Name: assets/manifest/tutorial.json
+SHA1-Digest: j7X5oIV3priLl6sM7yCfZLSjC/8=
+
+Name: assets/assets/images/storymenu/week6.png
+SHA1-Digest: 9WdCREej9ru5PBUSMid0uo1q4N0=
+
+Name: assets/assets/songs/tutorial/Inst.ogg
+SHA1-Digest: tmoif+MaVm4sbtFlhORCbs8w40s=
+
+Name: assets/assets/week5/images/christmas/monsterChristmas.xml
+SHA1-Digest: 72CXimf3R/H01tfhfamypWuJQe4=
+
+Name: assets/flixel/flixel-ui/img/dropdown_mark.png
+SHA1-Digest: Kr68J7Hylmo/LGUu6dCrTi+e2/U=
+
+Name: assets/assets/week5/images/christmas/upperBop.png
+SHA1-Digest: 6zGC9sxE4FiiEuoSXD2zWQnxouI=
+
+Name: assets/assets/data/winter-horrorland/winter-horrorland.json
+SHA1-Digest: UZAea/7pYWoR316SvH/hRoyht7g=
+
+Name: assets/assets/songs/pico/Inst.ogg
+SHA1-Digest: I2YLOjGw3KvOpuDuFdkqkTGG4yU=
+
+Name: assets/assets/data/tutorial/tutorial.json
+SHA1-Digest: oNh7D9HhtI7adTth2RBeS8na4TY=
+
+Name: assets/assets/shared/images/speech_bubble_talking.xml
+SHA1-Digest: O4euhrgSu8aWcnZf8+oSnXGLFeg=
+
+Name: assets/assets/data/cocoa/cocoa.json
+SHA1-Digest: C4vkpjBkAp+GekNCoBknUoSfPnE=
+
+Name: assets/assets/songs/song-tracks1/Voices.ogg
+SHA1-Digest: x2aa9wtPmm8kRMtFPc/FW36kHgU=
+
+Name: assets/assets/shared/images/restart.png
+SHA1-Digest: 5GaHlRdhuErLroo7nbGS+pkhjFU=
+
+Name: assets/assets/customweek/images/dialogue/dadPortrait.png
+SHA1-Digest: UPm4dhs8KNGef26tK/b/w8vjxdg=
+
+Name: assets/assets/shared/images/set.png
+SHA1-Digest: y4r1ObrBNVRv9Wx0H99uPv4X8JM=
+
+Name: assets/manifest/default.json
+SHA1-Digest: d0ka2QELsScz87apay6z0nbKiRo=
+
+Name: assets/flixel/flixel-ui/img/button_toggle.png
+SHA1-Digest: QQ/mHbwMdEVP26rjhRLLNVReUwM=
+
+Name: assets/assets/images/newgrounds_logo.png
+SHA1-Digest: Wsh5ajV0BuiAPtHlWs/Ro309ZHc=
+
+Name: assets/assets/shared/sounds/GF_3.ogg
+SHA1-Digest: ctSjWe1q6Ep7s7IVcUKbPIrV5Eg=
+
+Name: assets/manifest/week1.json
+SHA1-Digest: 5TG+rRSOUul6ZIW44JSz2nWXZ6I=
+
+Name: assets/assets/songs/fresh/Inst.ogg
+SHA1-Digest: +8iIh8EPSvGhiYAatsAaQE8iOyQ=
+
+Name: assets/assets/data/dadbattle/dadbattle-hard.json
+SHA1-Digest: EwUHfRF6wgKS9zCh6EXAQYZ831I=
+
+Name: assets/assets/sounds/confirmMenu.ogg
+SHA1-Digest: 0ouIK+X5jN+BDHk0HMFhFfhWric=
+
+Name: assets/assets/week6/images/weeb/spiritFaceForward.png
+SHA1-Digest: 6FQJt7seYg1EVOZQ53s1OTAtRM4=
+
+Name: assets/assets/shared/images/gf/GF_assets_blowing.png
+SHA1-Digest: yrjdb1TywtbtOBE2OI+ZUaofDzg=
+
+Name: assets/assets/shared/images/gf/GF_assets.png
+SHA1-Digest: gIiH+HAYMjrbOugmW98cqP2NscA=
+
+Name: assets/assets/week5/images/christmas/monsterChristmas2.xml
+SHA1-Digest: WdTKTWUP8WwVux7KV1G6oLNKBdU=
+
+Name: assets/assets/shared/sounds/Senpai_Dies.ogg
+SHA1-Digest: 2WHvZp3LUpT9HQqkztLDhQD91IM=
+
+Name: assets/assets/data/satin-panties/satin-panties-easy.json
+SHA1-Digest: ezX0Z0yz/FS7FfNhy3XAOb18bFw=
+
+Name: assets/assets/customweek/images/dialogue/why u here.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/week2/week2_stuff_here.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/data/fresh/fresh-easy.json
+SHA1-Digest: yUmu79qghpy7H+R5LlQVqhKFKqY=
+
+Name: assets/assets/songs/cocoa/Inst.ogg
+SHA1-Digest: kejdoHUDas0r4A/zfInt6SP/mMw=
+
+Name: assets/assets/week2/images/Monster_Assets.xml
+SHA1-Digest: AIW94KqPhbpOS1yDjto/wdSD7uY=
+
+Name: assets/assets/images/menucharacter/spooky.xml
+SHA1-Digest: yTUl05XWx/QM3wdfg/fGIvXUnP4=
+
+Name: assets/assets/data/senpai/senpaiDialogue.txt
+SHA1-Digest: qJrridvnbDsjuQyS2ErN1WOvfTM=
+
+Name: assets/assets/songs/thorns/Inst.ogg
+SHA1-Digest: gv3tgXCKbOiS3hrHPHwMdaWuxws=
+
+Name: assets/assets/customweek/images/Character/gfcustom1.png
+SHA1-Digest: FBDtm02QeYXznrcM+SU1eTGRFc8=
+
+Name: assets/assets/data/monster/monster-hard.json
+SHA1-Digest: /2VNEKOiwoGbCOYbg9rWlIBLnYU=
+
+Name: assets/assets/shared/sounds/intro1.ogg
+SHA1-Digest: KZOSFQZ3ReqZbxf3He95ptjo6tk=
+
+Name: assets/assets/data/satin-panties/satin-panties.json
+SHA1-Digest: p7WpZML+/r4B/6BdAt8A5ZPV37U=
+
+Name: assets/assets/week6/images/weeb/pixelUI/dialogueBox-pixel.xml
+SHA1-Digest: ZYd9eaj5qnH3EBdwyRBfbhdfMI8=
+
+Name: assets/assets/images/storymenu/week2.png
+SHA1-Digest: ZyQ0NqyckgSVE3l/OzYw6uDHoVo=
+
+Name: assets/assets/week5/images/christmas/mom_dad_christmas_assets.xm
+ l
+SHA1-Digest: 4JC3deLMfT5W85WQMmT2TcDicUQ=
+
+Name: assets/assets/week6/images/weeb/pixelUI/sick-pixel.png
+SHA1-Digest: J0IAlS6WoBHDuq2C+DOT1glPVLk=
+
+Name: assets/assets/data/high/high-easy.json
+SHA1-Digest: 8wZ6y/Os3d5wd45veZoSh5b9LZA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: n/N4nOwOv+XgLFxraS/Kgv8zDIQ=
+
+Name: assets/assets/customweek/images/dialogue/dadMadPortrait.png
+SHA1-Digest: UPm4dhs8KNGef26tK/b/w8vjxdg=
+
+Name: assets/assets/week1/week1_stuff_here.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: lib/arm64-v8a/libApplicationMain.so
+SHA1-Digest: d1GTfX3GEBpLkVSd0e7qCRIjI68=
+
+Name: assets/assets/customweek/music/delete music dialogue if u want t
+ o turn it off.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/data/thorns/thorns-easy.json
+SHA1-Digest: AvX1tJaJiJdRdCz7aUV4Lkyj3yE=
+
+Name: assets/assets/week6/images/weeb/bfPixel.png
+SHA1-Digest: znBU0d6yGUGhMsGlmH9/aEIyz8E=
+
+Name: assets/assets/songs/monster/Voices.ogg
+SHA1-Digest: C6+02IG5Tz3JoiJbDM82TYXibR0=
+
+Name: assets/assets/week6/images/weeb/senpaiCrazy.xml
+SHA1-Digest: ts0F0Kgg5tXA7X1W22HPEcNhtWg=
+
+Name: assets/assets/data/roses/rosesDialogue.txt
+SHA1-Digest: pS1fYHZLhLeRoaWwEkzaQxCrQEo=
+
+Name: assets/assets/week5/images/christmas/bgEscalator.png
+SHA1-Digest: B4eny0/8URQCn0pudo7qmyE8hiY=
+
+Name: assets/assets/data/specialThanks.txt
+SHA1-Digest: ayL0UJ63E/LTTSh6CClLlxLS+Ew=
+
+Name: assets/assets/images/alphabet.png
+SHA1-Digest: 6o5ctF9L7wGsmxdH/7e9hsq6Cik=
+
+Name: assets/assets/customweek/images/Character/Char3_Assets.xml
+SHA1-Digest: +UsZ9lpmbVhVfY7BZuJgXlgdKIo=
+
+Name: assets/assets/data/song-tracks2/dialogue.txt
+SHA1-Digest: y3mgaCbkzIqBHX6MRuEe0SXjueo=
+
+Name: assets/assets/images/FNF_main_menu_assets.xml
+SHA1-Digest: Q5pBrG7b4x0OoMrJ0B2+lpBTpvI=
+
+Name: assets/assets/shared/images/hitbox/hitbox.xml
+SHA1-Digest: C7o0w6GGUI4o51Zfg1rL1EkUzBw=
+
+Name: assets/assets/shared/sounds/badnoise2.ogg
+SHA1-Digest: knfbhpN1bMPcCljW4vS9U2q+bYg=
+
+Name: assets/assets/preload/data/data-goes-here.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/songs/senpai/Inst.ogg
+SHA1-Digest: 6gW0LnWIxDhkdiKdnhM1iZeE90o=
+
+Name: assets/assets/images/num9.png
+SHA1-Digest: r9lysAdRsIZldl08J7kuT6SPlZc=
+
+Name: assets/assets/week6/images/weeb/pixelUI/num0-pixel.png
+SHA1-Digest: Jv4xw7DS/lsSmIp0bS2llq2AavQ=
+
+Name: assets/mods/readme.txt
+SHA1-Digest: +E9UIYrs3QbypbGXa+RilrKW7Ig=
+
+Name: assets/assets/customweek/images/dialogue/gfHurtPortrait.xml
+SHA1-Digest: uwnFINWhd4OfgMuEjCy6AmQ4ZQs=
+
+Name: assets/manifest/songs.json
+SHA1-Digest: Wk7zxtTi1IcV1/IDNTzPhn6lrIo=
+
+Name: assets/assets/data/roses/roses-hard.json
+SHA1-Digest: yn9BvINpQMfU5ei3m7ozilqxBNc=
+
+Name: assets/assets/images/virtual-input.txt
+SHA1-Digest: EW6nk+IAtGrMz/nyikx72E3Pzi4=
+
+Name: assets/assets/customweek/images/dialogue/dadAngryPortrait.xml
+SHA1-Digest: ricKUYHPfJVDXt7UDA8dDp4Y2b8=
+
+Name: assets/assets/data/senpai/senpai-easy.json
+SHA1-Digest: VaJP6rDfhXkgo+Q9OptWCGVKh6Y=
+
+Name: assets/assets/data/pico/pico.json
+SHA1-Digest: wrV1a9lLu2Kfz0OYPlJ4dMJrfQw=
+
+Name: assets/assets/images/campaign_menu_UI_assets.xml
+SHA1-Digest: U9ioDeSAjdaA9eTcIN2i+lR4Yg0=
+
+Name: assets/flixel/flixel-ui/img/chrome_flat.png
+SHA1-Digest: 0BwxbcU5e/rWMVqX2fZ36Vwdh6g=
+
+Name: assets/assets/images/num2.png
+SHA1-Digest: kv1x3kkq6T040QXNMtb6LSTmDBU=
+
+Name: assets/assets/shared/sounds/ANGRY_TEXT_BOX.ogg
+SHA1-Digest: up96xv/dU2QfEzRQQ4oTW37Io4A=
+
+Name: assets/assets/shared/sounds/intro3-pixel.ogg
+SHA1-Digest: hONrtbYO4f132TxmZ57Ruy+PVKM=
+
+Name: assets/assets/data/monster/monster-easy.json
+SHA1-Digest: W7EmZ50htwauQqoHY/s5ccC04ZA=
+
+Name: assets/assets/week2/images/halloween_bg.png
+SHA1-Digest: EAQ9TV3kgfjN7k7IU8bup+0ZmGY=
+
+Name: assets/assets/songs/milf/Voices.ogg
+SHA1-Digest: 4mFBpR60bKQvZVJatDiZZV3E6Pk=
+
+Name: assets/flixel/fonts/nokiafc22.ttf
+SHA1-Digest: +wFx52WRVoevTqdYt3jtGWHPB+U=
+
+Name: assets/assets/week6/images/weeb/weebStreet.png
+SHA1-Digest: FulF8dmMVvFjRcJn6+2X6Rd+Y6I=
+
+Name: assets/assets/songs/cocoa/Voices.ogg
+SHA1-Digest: 0m1Zrz81NBwxhaPyfafnTk51tSw=
+
+Name: assets/assets/week3/images/Pico_FNF_assetss.png
+SHA1-Digest: GHlyBu5KmfYXxIAPVzX94IhE77M=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: UUR0GwrKm8dBnKnmZtA5c/AtNJQ=
+
+Name: assets/assets/week3/week3_stuff_here.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/week5/images/christmas/bottomBop.xml
+SHA1-Digest: UG7JEs8HvB2KmmVtlaXogxhLLMQ=
+
+Name: assets/assets/week4/images/limo/limoDancer.png
+SHA1-Digest: TeJv/MtAcr02feCmGR2pu25HUiA=
+
+Name: assets/assets/week5/images/christmas/monsterChristmas3.xml
+SHA1-Digest: NRLamG21wmhBp+pbRrRNr7/UYoc=
+
+Name: assets/assets/shared/images/week54prototype.png
+SHA1-Digest: J4YdM1GTnYg4g50YwSlRr8mnEEU=
+
+Name: assets/assets/shared/sounds/GF_2.ogg
+SHA1-Digest: 8v1GSnIWbUlReRER/cti6Q3gs/k=
+
+Name: assets/assets/customweek/images/NOTE/just leave it be if u dont 
+ want to change lmao.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/week6/images/weeb/pixelUI/hand_textbox.png
+SHA1-Digest: lrepvRaIjsO2/LYE+UVOQnZwM4s=
+
+Name: assets/assets/week6/music/Lunchbox.ogg
+SHA1-Digest: Gk7jVmIu398Es32YkE0bzHCTN3A=
+
+Name: assets/flixel/flixel-ui/img/check_mark.png
+SHA1-Digest: UQfA5lVFJadM+fRyIU/0YYcrVtc=
+
+Name: assets/manifest/shared.json
+SHA1-Digest: /zUvEKodnFH8mtj0/PT8Ocq9zk0=
+
+Name: assets/assets/week6/images/weeb/pixelUI/dialogueBox-evil.png
+SHA1-Digest: 93dMIhj2PoIkezipa0O6gLwXcP4=
+
+Name: assets/assets/week5/images/christmas/gfChristmas_em.png
+SHA1-Digest: bc7tih+hJq9P3iKQOYzaYojDE7w=
+
+Name: assets/assets/data/smash/smash.json
+SHA1-Digest: UTIV+DzVsH1idCzhIWtY2L3kLo4=
+
+Name: assets/assets/preload/data/introText.txt
+SHA1-Digest: 5niDu6Duo/vhkz1UjBOA2Lz0i0M=
+
+Name: assets/assets/week2/images/spooky_kids_assets.xml
+SHA1-Digest: 9Hf+VvnyjHk3WMSsSooTFfuZWmM=
+
+Name: assets/assets/images/menucharacter/campaign_menu_UI_characters.p
+ ng
+SHA1-Digest: 2ABiUs/yvZSyOaxwpKeA3unKLAI=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: 0h/o6uLxijqP4fPmbGhS59++kI8=
+
+Name: assets/assets/songs/satin-panties/Voices.ogg
+SHA1-Digest: DKzeovCK0dr/zXAjF6shvdDlQrA=
+
+Name: assets/assets/images/virtual-input.png
+SHA1-Digest: rP1uUuGrhg9lAG6dgMY2PWqKYmY=
+
+Name: assets/assets/data/blammed/blammed-easy.json
+SHA1-Digest: WS2EFctQ0fQkJqmpCdKQ/GpZ7/A=
+
+Name: assets/assets/week6/images/weeb/weebSky.png
+SHA1-Digest: ZdpV+UBjNqL2bjh5mt46f63TSKI=
+
+Name: assets/assets/shared/sounds/intro1-pixel.ogg
+SHA1-Digest: bqvYLSUKPrFIu9KhjR9QIfGaEI8=
+
+Name: assets/assets/images/storymenu/week3.png
+SHA1-Digest: /K8jt/HVuGzhpsDOnrDiB/1LcRE=
+
+Name: lib/arm64-v8a/liblime.so
+SHA1-Digest: c6ujY5nLZ4KYXiAcFK/Y6/BsE9E=
+
+Name: assets/flixel/flixel-ui/img/hilight.png
+SHA1-Digest: Tm8JfNM+2EFjN3gXxanfwQpyypg=
+
+Name: assets/assets/aboutmod.txt
+SHA1-Digest: 8pzhYyxUOYBdfa5qTkBCYzdaVzY=
+
+Name: assets/assets/shared/images/pauseAlt/pauseUI.xml
+SHA1-Digest: taH+l/kaMpeZv7jzB88RYTcLIuI=
+
+Name: assets/assets/data/tutorial/tutorial-hard.json
+SHA1-Digest: dCN58rlJgGxhPL6PGbWNCZoL73k=
+
+Name: assets/assets/shared/images/gf/GF_assets_tutorial.xml
+SHA1-Digest: v5q1Okgwk1Kc2Ge7FRinI9OZBrs=
+
+Name: assets/assets/shared/images/good.png
+SHA1-Digest: j1stAUZbETnz7CgkoCQhBXbW71A=
+
+Name: assets/assets/customweek/images/dialogue/wait for next update.tx
+ t
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/customweek/images/stagecurtains1.png
+SHA1-Digest: qGh0abdo+psLtBXZV5lq1ysRUTI=
+
+Name: assets/assets/week6/images/weeb/pixelUI/num2-pixel.png
+SHA1-Digest: giUtQqBQ9YnrHxWkBkU/EfX3LyY=
+
+Name: assets/assets/customweek/images/Character/gfcustom2.png
+SHA1-Digest: 6zGC9sxE4FiiEuoSXD2zWQnxouI=
+
+Name: assets/assets/songs/song-tracks3/Inst.ogg
+SHA1-Digest: AxOggVzyTOpudffur+R7DYC8n7E=
+
+Name: assets/assets/shared/images/gf/GF_ass_sets_landing.png
+SHA1-Digest: fKdve6elC0wRlozzwiRL6RbF+bA=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: YQKCuYFGyK2CeFlHoCSJj4dkxpw=
+
+Name: assets/assets/customweek/images/dialogue/boyfriendPortrait.png
+SHA1-Digest: iQDFkNZgzBl5uwxyawInMs6czdI=
+
+Name: assets/assets/songs/song-tracks2/Voices.ogg
+SHA1-Digest: LSLIKZSSCED4R7n8dAh44S2axyg=
+
+Name: assets/assets/week6/images/weeb/bfPixelsDEAD.png
+SHA1-Digest: XQ+ueV/stytO5cfS/RsJpbJSU5I=
+
+Name: assets/assets/data/song-tracks3/song-tracks3-easy.json
+SHA1-Digest: saQ+j0Kx/uZBh5DGIo6Q7CsxpDI=
+
+Name: assets/assets/images/menuDesat.png
+SHA1-Digest: 0RNZ/KoWFsIW6P/mp7lfdbvmipc=
+
+Name: assets/assets/songs/roses/Inst.ogg
+SHA1-Digest: IcesbfkSG9024F+beTKW19V5Ygk=
+
+Name: assets/assets/important.jpg
+SHA1-Digest: Z43iU9Ps+sDU4cQ2od3FhSFRbiU=
+
+Name: assets/manifest/week5.json
+SHA1-Digest: 0fLLNhpXPLu6qr4EvYiubjxoCHI=
+
+Name: assets/assets/customweek/images/stageback1.png
+SHA1-Digest: Bng3aIdCNsv0DF8VKiev/YbRzTM=
+
+Name: assets/assets/images/iconGrid.png
+SHA1-Digest: gWYWu/d9qsIR2H/Tbeqxlt/XgG8=
+
+Name: assets/assets/songs/satin-panties/Inst.ogg
+SHA1-Digest: RqNLoeNtP5N+K2vyP9F3Ry2WRCY=
+
+Name: assets/assets/week6/music/gameOver-pixel.ogg
+SHA1-Digest: ABz16VrQY0ua7yl2zKeIkLJjQtU=
+
+Name: assets/assets/data/song-tracks3/dialogue.txt
+SHA1-Digest: 9WEhGC4KUAaRRlSY3ceBgYhFfpU=
+
+Name: assets/assets/customweek/images/dialogue/gfPortrait.png
+SHA1-Digest: qSj/bAHcdgFZEaeB+Q+hL4ArUDM=
+
+Name: assets/assets/songs/eggnog/Inst.ogg
+SHA1-Digest: CHxMQdsT0aGr7jOnGVYn8J5Djmo=
+
+Name: assets/assets/data/bopeebo/bopeebo-hard.json
+SHA1-Digest: l14RrjNmb+BJGMN1VwRMSGIoauU=
+
+Name: assets/assets/images/num3.png
+SHA1-Digest: Q8fEzjdoFyUU+H9R8Dtw4qT4bAc=
+
+Name: assets/assets/week6/images/weeb/pixelUI/date-pixel.png
+SHA1-Digest: BU779c/5UU4cc1N1PU7VLY2ycRY=
+
+Name: assets/assets/week4/images/momCar.png
+SHA1-Digest: 29F1T0Bz1QixF3ehIMOUUOmh0wI=
+
+Name: assets/assets/shared/sounds/ANGRY.ogg
+SHA1-Digest: sOb9oGkDDCEfRLsbFRQbfCJ/xlI=
+
+Name: assets/assets/week6/images/weeb/pixelUI/arrowEnds.png
+SHA1-Digest: zGal+QJMDsG9JL0hPl9tgRGAt1M=
+
+Name: assets/assets/data/song-tracks3/song-tracks3.json
+SHA1-Digest: F0SlfQG9arGRSSwSibniGh7nmNc=
+
+Name: assets/assets/customweek/images/dialogue/dialogue-box.png
+SHA1-Digest: HA06UigbxMRHPyXIr7+bXimyTZ4=
+
+Name: assets/assets/data/main-view.xml
+SHA1-Digest: 3N1r4OWXOgDWF4SBLO0oohkjq/I=
+
+Name: assets/assets/week6/images/weeb/senpai.xml
+SHA1-Digest: x7ezO3T3r228vPKu2z6JKmJsOwk=
+
+Name: assets/assets/shared/sounds/badnoise1.ogg
+SHA1-Digest: kVzduQn9yqZNoPJ7uSAx3skrhIs=
+
+Name: assets/assets/data/winter-horrorland/winter-horrorland-easy.json
+SHA1-Digest: y9JiaMF7HtLmBF/iz78aODPWcm0=
+
+Name: assets/assets/shared/images/go.png
+SHA1-Digest: B4yACoeFhMI5NphArIjYRIia46A=
+
+Name: assets/assets/shared/sounds/pixelText.ogg
+SHA1-Digest: A8MPFD2eohQVLDRyjFVj97fIJyY=
+
+Name: assets/flixel/flixel-ui/img/chrome.png
+SHA1-Digest: PHdsOmDq4sqjYgljrLJg9AsBMDg=
+
+Name: assets/assets/week3/images/philly/city.png
+SHA1-Digest: l0zkwIgDX5LXh2sQn1yKvDtAQVI=
+
+Name: assets/assets/week6/images/weeb/pixelUI/num7-pixel.png
+SHA1-Digest: GwOnQBCEicGQF65sRk9jRnB0Uf0=
+
+Name: assets/assets/data/dadbattle/dadbattle.json
+SHA1-Digest: H5Fm8ekQiAapmUbk5D+LFsb3HGo=
+
+Name: assets/assets/shared/images/hitbox/hitbox_hint_old.png
+SHA1-Digest: i/i9y1DyWGlFfVAiIyoiJhB0lRo=
+
+Name: assets/assets/songs/test/Inst.ogg
+SHA1-Digest: d/mn6fzhx2x13YkK8+8Fb66D67Y=
+
+Name: assets/assets/week6/images/weeb/evilSchoolBG.png
+SHA1-Digest: tmlD1JoxN4v0LTmsI3ldmEoYp9I=
+
+Name: assets/assets/week5/images/christmas/mom_dad_christmas_assets2.p
+ ng
+SHA1-Digest: Fth4nZBJ95CPV++riYxS9R0mpP0=
+
+Name: assets/assets/shared/images/hitbox/hitbox_hint.png
+SHA1-Digest: Sqln3Ca82vp5UXogplydFRV76VE=
+
+Name: assets/assets/week6/images/weeb/pixelUI/dialogueBox-senpaiMad.pn
+ g
+SHA1-Digest: ra4wdFd+LfmBNO6C3v/6zlHGD3Q=
+
+Name: assets/flixel/flixel-ui/img/tooltip_arrow.png
+SHA1-Digest: KdNsQ5r7ad78FAV8S0ZnqcMG9oI=
+
+Name: assets/assets/fonts/vcr.ttf
+SHA1-Digest: aEN4LPMx3FO1kTwVvz7mfO74NwU=
+
+Name: assets/changelog.txt
+SHA1-Digest: 0HDJ9OV5Tx0npm80CGPl1emHJ3k=
+
+Name: assets/assets/week4/week4_stuff_here.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/week6/images/weeb/pixelUI/num6-pixel.png
+SHA1-Digest: PDqHQt+TgNQbOwtXiXkKrPytBZs=
+
+Name: assets/flixel/flixel-ui/img/chrome_light.png
+SHA1-Digest: NwiGvKSrvkSiKOILxXSYO1QrSR8=
+
+Name: assets/assets/data/philly/philly-easy.json
+SHA1-Digest: pRsQPtHYotZR7FkqZMugUZUoVrw=
+
+Name: assets/assets/week4/images/limo/bgLimo.xml
+SHA1-Digest: HGFFJkoTz8sbKdBNPR7AqpW985I=
+
+Name: assets/assets/images/num4.png
+SHA1-Digest: bUsgke5cB2DUmkYOBhlaOGeUFfM=
+
+Name: assets/assets/shared/images/GF_assets_lite.png
+SHA1-Digest: nz0cihO9pD3TzMm+m8Nzo0hSsSc=
+
+Name: assets/assets/customweek/images/Character/Char1_Assets.png
+SHA1-Digest: HaVV2rzAKXLh6yzTtFuJS7N8Nzk=
+
+Name: assets/assets/customweek/images/custom2.png
+SHA1-Digest: RG01K3sXLrLwP5IGjCV023iWqFM=
+
+Name: assets/assets/week3/images/philly/behindTrain.png
+SHA1-Digest: 8z7B1S62LSbvmxtZ4FMi3fE2Kcs=
+
+Name: assets/assets/data/song-tracks2/song-tracks2.json
+SHA1-Digest: o4auq/UQTntNB31vv6YKEmBSWqw=
+
+Name: assets/flixel/flixel-ui/img/button_thin.png
+SHA1-Digest: BRgsVXFnn9tIsfsy2Z5dOqA/oT8=
+
+Name: assets/assets/week6/images/weeb/gfPixel.xml
+SHA1-Digest: HSHZwPERlskWlc8Lfu0bWYs/me0=
+
+Name: assets/flixel/flixel-ui/img/finger_small.png
+SHA1-Digest: /wRIpF7mLO06d1Wi/UkWzgLxTB4=
+
+Name: assets/assets/shared/images/GF_assets.png
+SHA1-Digest: nz0cihO9pD3TzMm+m8Nzo0hSsSc=
+
+Name: assets/assets/week6/images/weeb/weebSchool.png
+SHA1-Digest: hE8vGDMpcsb/8uNtSwoWK6p/cRk=
+
+Name: assets/flixel/flixel-ui/xml/default_popup.xml
+SHA1-Digest: xiyA3KRqsiAwSefnQAu1KREa9qQ=
+
+Name: assets/assets/data/bopeebo/bopeebo.json
+SHA1-Digest: 5QVIcNV1o8LcJ/BPJMSSVPKSmbg=
+
+Name: assets/assets/songs/test/Voices.ogg
+SHA1-Digest: boIkGrIKN9eSaENeL9cDqk1pYrs=
+
+Name: assets/assets/data/fresh/fresh.json
+SHA1-Digest: nryJLbDRyJTYF8w4X5+Br3SkuIQ=
+
+Name: assets/assets/week5/images/christmas/evilSnow.png
+SHA1-Digest: WEB7hscNO4nn/Yzw/rFekOK5WcI=
+
+Name: assets/assets/week5/images/christmas/gfChristmas.xml
+SHA1-Digest: g2in2jFItWIiFD+AQpKiXsrk4gA=
+
+Name: assets/flixel/flixel-ui/img/tab_back.png
+SHA1-Digest: 2Y2+Spyut4NyejGOAoTf3czRRHA=
+
+Name: assets/assets/data/cocoa/cocoa-easy.json
+SHA1-Digest: 7JgcZ1olOIwME4MsYgxyEfOOtMg=
+
+Name: assets/assets/shared/sounds/train_passes.ogg
+SHA1-Digest: QznMmpxbp/rh3rMa6uoTF/XLXcY=
+
+Name: assets/assets/week6/images/weeb/bfPortrait.png
+SHA1-Digest: 3Dmeoko4x/wpcy+2wHi1PGPsNwg=
+
+Name: assets/assets/customweek/images/Character/Char2_Assets.xml
+SHA1-Digest: nn6hbBAG8TEmLXLQ7ilBECtMZMY=
+
+Name: assets/assets/week6/images/weeb/pixelUI/num5-pixel.png
+SHA1-Digest: eX0zHWADuYRWSlk3UHIuIl5SZvs=
+
+Name: assets/assets/songs/song-tracks1/Inst.ogg
+SHA1-Digest: SqF0WgXg0ta+6rkfPzY6TLT0Wo8=
+
+Name: assets/assets/images/storymenu/week0.png
+SHA1-Digest: xF2iCpG244x2++6Tkf4kAXn4US8=
+
+Name: assets/assets/data/controls.txt
+SHA1-Digest: vz2ZNDx/1A3X9A6VCGNPX+IwFYg=
+
+Name: assets/assets/fonts/pixel.otf
+SHA1-Digest: TIeR+NCgUqAh6I1QkNMT49ZFwUw=
+
+Name: assets/assets/images/menucharacter/parents-christmas.png
+SHA1-Digest: e2DRc1S6FWyL4XQVf/MyUS/QX70=
+
+Name: assets/assets/images/logoBumpin.png
+SHA1-Digest: 15w6q3ouIBVmDZXEthQ6hhKnI24=
+
+Name: assets/assets/shared/images/lose.png
+SHA1-Digest: wVVOg971XdbKEpLNwjGxLedY2i0=
+
+Name: assets/assets/week5/images/christmas/santa.xml
+SHA1-Digest: 6VgJAcXXh+k7//2h//mooS3ZWu4=
+
+Name: assets/assets/songs/fresh/Voices.ogg
+SHA1-Digest: CjJ4TtPIo+7qMk0XNeNHRaOrGs0=
+
+Name: assets/assets/images/menucharacter/mom.xml
+SHA1-Digest: IpiO7Q36/WjnT7EQZoY4FIn+fyo=
+
+Name: assets/assets/preload/data/specialThanks.txt
+SHA1-Digest: ayL0UJ63E/LTTSh6CClLlxLS+Ew=
+
+Name: assets/assets/data/freeplaySonglist.txt
+SHA1-Digest: JwGpTA61XL2Vioff8+lZZz/xv1M=
+
+Name: assets/assets/images/menucharacter/senpai.png
+SHA1-Digest: T3CyY2r8OtzzVYhcD6WvwYYxc6U=
+
+Name: assets/assets/shared/images/key_space.png
+SHA1-Digest: eju9FtktDvOqEPGiAm0gKAZyNW0=
+
+Name: assets/assets/week6/images/weeb/evilSchoolFG.png
+SHA1-Digest: rRsPcWKXUFVxXGG7KcSaY8sQH70=
+
+Name: assets/assets/data/thorns/thornsDialogue.txt
+SHA1-Digest: o7F1ekrzpwfrmrKPzu2MXGipH0E=
+
+Name: assets/assets/customweek/images/dialogue/boyfriendHurtPortrait.p
+ ng
+SHA1-Digest: iQDFkNZgzBl5uwxyawInMs6czdI=
+
+Name: assets/flixel/fonts/monsterrat.ttf
+SHA1-Digest: PhZ+X1wj+UujmnVtWxG+WOIPo5k=
+
+Name: assets/assets/data/eggnog/eggnog-easy.json
+SHA1-Digest: zlq8AQWb/negg4einzsTDCjR+uw=
+
+Name: assets/assets/data/high/high.json
+SHA1-Digest: QgoZXuoInLvavwIrpySgFPWQeEQ=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: CmUgFpw8TxvAIgNPH41buBXp8Cs=
+
+Name: assets/assets/data/fresh/fresh-hard.json
+SHA1-Digest: YdGWCZjkXsQaInK7ExB28v7cRDg=
+
+Name: assets/assets/week3/images/philly/win4.png
+SHA1-Digest: XecudeuxPLQMoA3igXLNgbeFXPE=
+
+Name: assets/assets/images/menucharacter/char1.xml
+SHA1-Digest: /onO4Zd4qfqSGFb2dGUOKkrPj7w=
+
+Name: assets/assets/images/menucharacter/pico.png
+SHA1-Digest: sQ0S6jjHOxxqulI0Au2lG4GqGMU=
+
+Name: assets/assets/shared/images/pauseAlt/bfLol.xml
+SHA1-Digest: Rsa6gR7a23tF8OgT7pnVqvG/6/E=
+
+Name: assets/flixel/flixel-ui/img/chrome_inset.png
+SHA1-Digest: GPFStyXfqW7riM3ai1s5cdloHK8=
+
+Name: assets/assets/shared/images/speech_bubble_talking.png
+SHA1-Digest: nKi3uHzksAhjpZZjh0snzhQPVFc=
+
+Name: assets/assets/data/satin-panties/satin-panties-hard.json
+SHA1-Digest: G4sKpUNog8ISQQy6p/72fARt6YU=
+
+Name: assets/assets/week6/images/weeb/pixelUI/num3-pixel.png
+SHA1-Digest: JOf3k6wYxZtBhFAIEj7hRuplGE8=
+
+Name: assets/flixel/flixel-ui/img/box.png
+SHA1-Digest: 5YyxCg17JRoZAFvnuFbjBcK5P20=
+
+Name: assets/flixel/flixel-ui/img/button_arrow_right.png
+SHA1-Digest: YAjcf/RR4WLhrH46Zdo4a7j+yvg=
+
+Name: assets/assets/preload/data/characterList.txt
+SHA1-Digest: tSaAOcPEr3JwX4pi3FXnW9tIgzk=
+
+Name: assets/assets/week4/images/limo/limoDrive.png
+SHA1-Digest: b1x1/SaabnN7/pWt5NKNM/ifnEw=
+
+Name: assets/assets/data/philly/philly-hard.json
+SHA1-Digest: 8eGkcXFtBOVSmFETJWZNKB9xMeY=
+
+Name: assets/assets/songs/spookeez/Voices.ogg
+SHA1-Digest: XqbQ4/kmaLm0CoBywa+yxqzuFAI=
+
+Name: assets/assets/customweek/images/NOTE/NOTE_assets1.xml
+SHA1-Digest: tFp2vKLIspIJJdYvbIovmbHYgi8=
+
+Name: assets/assets/images/menuBGBlue.png
+SHA1-Digest: QauTU9iwcgWSMY6TI2kPGGwS+ho=
+
+Name: assets/assets/songs/song-tracks3/Voices.ogg
+SHA1-Digest: F885WjD4G+xtxozNjUT+TSlC2N4=
+
+Name: assets/assets/week6/images/weeb/bgFreaks.xml
+SHA1-Digest: +zlzu6a8Dtc/9p6WBxwU1dE8WCU=
+
+Name: assets/assets/week4/images/bfCar.xml
+SHA1-Digest: zmmNGWy7va+lBa0BBAmDeFBEBZI=
+
+Name: assets/assets/week4/images/limo/limoOverlay.png
+SHA1-Digest: cU8AuMlDVuSnL1fV/5u60FvIqFM=
+
+Name: assets/assets/customweek/images/Character/bfcustom2.xml
+SHA1-Digest: /cugnmMvm0+3Desm/OFa/GwMbiw=
+
+Name: assets/assets/images/gfDanceTitle.png
+SHA1-Digest: jORVDq0/VGXYgqFqg6Ln/lZTtUI=
+
+Name: assets/assets/songs/philly/Inst.ogg
+SHA1-Digest: ezjSB0QKi890J5vu6+I/40F8qKQ=
+
+Name: assets/assets/week5/images/christmas/mom_dad_christmas_assets3.p
+ ng
+SHA1-Digest: Fth4nZBJ95CPV++riYxS9R0mpP0=
+
+Name: assets/assets/shared/images/gf/GF_assets_week2.xml
+SHA1-Digest: W1grLfdfmK7SLuu4W05czp2CwKs=
+
+Name: assets/assets/images/titleEnter.png
+SHA1-Digest: nG05iRn7R7ol3L8lZ8N3z+qPd40=
+
+Name: assets/assets/data/spookeez/spookeez-hard.json
+SHA1-Digest: N0S2dn3BBeHweyCHdKn42FQaqsc=
+
+Name: assets/assets/images/storymenu/week1.png
+SHA1-Digest: i76tWR40Cwu6IAf+x9qRPPO5C50=
+
+Name: assets/assets/images/menucharacter/dad.png
+SHA1-Digest: bM6RwKrjcsl3ngwFAiWN9CDpLN8=
+
+Name: assets/assets/week6/images/weeb/petals.xml
+SHA1-Digest: s/6ITBTjHqxpExMcnAiq1mLmzE8=
+
+Name: assets/assets/week4/images/Mom_Assets.xml
+SHA1-Digest: JHP4xqzdXTXUHSmSBcS25wz8JmM=
+
+Name: assets/assets/week6/images/weeb/animatedEvilSchool.png
+SHA1-Digest: O835Wh4x58Ws5KvmdHMz03KzJLc=
+
+Name: assets/assets/data/roses/roses-easy.json
+SHA1-Digest: pB6CsGmQw6FC9AyiaLqHc8nTn7Q=
+
+Name: assets/assets/images/num5.png
+SHA1-Digest: Tqk7fsjIHP2aqHqeqFd8LBcqMWQ=
+
+Name: assets/assets/songs/pico/Voices.ogg
+SHA1-Digest: Xlkid2k/VT4ipNW0Ye/jBcxTszU=
+
+Name: assets/assets/customweek/week7_stuff_here.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/shared/images/BOYFRIEND.png
+SHA1-Digest: v2sGupPHLT6IrPjOmPZNpT37UTc=
+
+Name: assets/assets/week4/images/gfCar.xml
+SHA1-Digest: tCR+YszDVduDUnDOvvr5lDFDocw=
+
+Name: assets/assets/week4/images/limo/dumb.png
+SHA1-Digest: o9MEQNVskoIdT5Nw5hwSvywJpQo=
+
+Name: assets/flixel/flixel-ui/xml/defaults.xml
+SHA1-Digest: FLTyyrkNtxAWcVmktRR/LFZ7tXE=
+
+Name: assets/assets/data/winter-horrorland/winter-horrorland-hard.json
+SHA1-Digest: O1H6CrYTBggdjo+Ukgy22lCqtoQ=
+
+Name: assets/assets/shared/images/key_shift.png
+SHA1-Digest: dt8xwMwlWaDlNnoIm5y1O2LsqtY=
+
+Name: assets/assets/shared/images/backspace.png
+SHA1-Digest: GC1f9nNzNa5BQjPfU4HVsPjhIbM=
+
+Name: assets/assets/shared/images/sick.png
+SHA1-Digest: c7YhF9x+7IrT6idEGKN75idIcng=
+
+Name: assets/assets/shared/sounds/Lights_Shut_off.ogg
+SHA1-Digest: P+vcIf6I0a3IANPNLPL9iXhWBvQ=
+
+Name: assets/assets/shared/images/NOTE_assets.xml
+SHA1-Digest: XXR0yDjvNRkx/UIRFVKr515QuK4=
+
+Name: assets/assets/shared/sounds/sounds-go-here.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/flixel/flixel-ui/img/button_arrow_up.png
+SHA1-Digest: /v8VYvqQazRyAts5VS33ELmNgdA=
+
+Name: assets/assets/songs/roses/Voices.ogg
+SHA1-Digest: vSIctfmrc+9ZurlN3/4xfmpZq54=
+
+Name: assets/assets/songs/thorns/Voices.ogg
+SHA1-Digest: JYcNgz6uo+Wg+6H6uSO7ZZZQQHI=
+
+Name: assets/assets/songs/winter-horrorland/Inst.ogg
+SHA1-Digest: 4MpDo+e7rk92XCOquVGxl42is2U=
+
+Name: assets/assets/week5/images/christmas/bfChristmas.xml
+SHA1-Digest: A92oEYXfdvobCVaDVZoiBOVB7bw=
+
+Name: assets/assets/data/pico/pico-hard.json
+SHA1-Digest: SWhK5I4QLPf//J4gsfcDnmHv9xM=
+
+Name: assets/assets/shared/images/DADDY_DEAREST.png
+SHA1-Digest: DojxawHnU1F3aWjznK9gjs0wrzk=
+
+Name: assets/assets/data/thorns/thorns.json
+SHA1-Digest: rnwJeHHq7pZtq8xMW4e1jvmQkpo=
+
+Name: assets/assets/shared/music/breakfast.ogg
+SHA1-Digest: LLu/wCs6hKGlxy+hR6w+P8vCl0Q=
+
+Name: assets/assets/week6/images/weeb/weebTreesBack.png
+SHA1-Digest: ovzy/Cxo9tjikfn9HGannc/39k8=
+
+Name: assets/assets/tutorial/tutorial_stuff_here.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/data/song-tracks3/song-tracks3-hard.json
+SHA1-Digest: aYpPpdbTZwcmr4V1wGrXCXtc8VM=
+
+Name: assets/assets/data/song-tracks1/dialogue.txt
+SHA1-Digest: 3LvUD+wdX4XM8kNejq2ncDV3cHg=
+
+Name: assets/assets/customweek/images/dialogue/dadPortrait.xml
+SHA1-Digest: ricKUYHPfJVDXt7UDA8dDp4Y2b8=
+
+Name: assets/assets/preload/data/freeplaySonglist.txt
+SHA1-Digest: JwGpTA61XL2Vioff8+lZZz/xv1M=
+
+Name: assets/assets/data/blammed/blammed-hard.json
+SHA1-Digest: 1VkT80POX3PrzgVKyo+XXeAJEKY=
+
+Name: assets/assets/customweek/images/Character/bfcustom1.xml
+SHA1-Digest: S8ZnkVQ/aNO0IX+uiA0twL3K1JQ=
+
+Name: assets/assets/songs/senpai/Voices.ogg
+SHA1-Digest: FKNAUpFg9sE8Q26V4klrGHrbZcA=
+
+Name: assets/assets/week6/images/weeb/pixelUI/num4-pixel.png
+SHA1-Digest: aTAlRsbmjD3S3GOc8uLEtcLgBIU=
+
+Name: assets/assets/data/roses/roses.json
+SHA1-Digest: TWSJ4vgIMacs9LnxN8npipCmQvw=
+
+Name: assets/assets/week3/images/philly/sky.png
+SHA1-Digest: LGqbrP0+37csE4PIyEdt4JFxaPY=
+
+Name: assets/flixel/flixel-ui/img/swatch.png
+SHA1-Digest: DFYmEkAAinXKykA61IJa/PO+YoQ=
+
+Name: assets/assets/shared/sounds/GF_4.ogg
+SHA1-Digest: e/u7G5bswheausSJacDgOYAjyAw=
+
+Name: assets/assets/week5/images/christmas/monsterChristmas.png
+SHA1-Digest: I01f7KmIzlxqWoqTh5/vlXST+LA=
+
+Name: assets/assets/shared/sounds/introGo-pixel.ogg
+SHA1-Digest: jBbMFAnzePmjhkGrtBid/aM+Uck=
+
+Name: assets/assets/customweek/images/NOTE/NOTE_assets2.xml
+SHA1-Digest: tFp2vKLIspIJJdYvbIovmbHYgi8=
+
+Name: assets/assets/week6/images/weeb/weebTrees.txt
+SHA1-Digest: cfjuxo0+Xx9PFnBWdUts1YndqHU=
+
+Name: assets/assets/week6/images/weeb/senpaiPortrait.png
+SHA1-Digest: uk2F0hoFNdxDJ8LX/e/rX0zj+tc=
+
+Name: assets/assets/songs/philly/Voices.ogg
+SHA1-Digest: AF7TZ/hdN6wriVl4L2wSRblpnTY=
+
+Name: assets/assets/week5/week5_stuff_here.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/assets/songs/high/Voices.ogg
+SHA1-Digest: 6toE6VM+djk1cQD3Q9dBsfltmk0=
+
+Name: assets/assets/week5/images/christmas/upperBop.xml
+SHA1-Digest: vm+Ma/daofkU6nWM32QucvSEnf0=
+
+Name: classes.dex
+SHA1-Digest: 8AYK/C+p4Rk3O2+WEcdNpfKpl8c=
+
